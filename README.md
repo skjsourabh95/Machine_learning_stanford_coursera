@@ -1,5 +1,7 @@
 # Machine_learning_stanford_coursera
 MACHINE LEARNING COURSE ON COURSERA BY ANDREW NG
+
+
 This repository contains implementations of  exercises from the course by Andrew Ng on Coursera
 
 For a number of assignments in the course you are instructed to create complete, stand-alone Octave/MATLAB implementations of certain algorithms.
